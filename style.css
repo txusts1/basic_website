@@ -22,7 +22,7 @@ body {
 
 /* Style the top navigation bar */
 .navbar {
-  overflow: hidden;
+  /*overflow: hidden;*/
   background-color: #333;
 }
 
@@ -60,6 +60,9 @@ body {
   background-color: #f1f1f1;
   padding: 10px;
 }
+.side img{
+  height:200px;
+}
 
 /* Main column */
 .main {   
@@ -68,6 +71,7 @@ body {
   background-color: white;
   padding: 20px;
 }
+
 
 
 /* Images, just for this example */
